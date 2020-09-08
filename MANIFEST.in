@@ -1,0 +1,4 @@
+include README.md
+include rdrsegmenter/*.jar
+include rdrsegmenter/vi-vocab
+include rdrsegmenter/*.rdr
